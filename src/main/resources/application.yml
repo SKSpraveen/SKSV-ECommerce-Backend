@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri : mongodb+srv://sksvdeveloper:2000Sksv@sksvecom.dkfkj.mongodb.net/?retryWrites=true&w=majority&appName=sksvEcom
+      database : sksvECommerce
